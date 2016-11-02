@@ -8,7 +8,7 @@ dependencies:
     - sudo gem install rubygems-update
 test:
   override:
-    - ./scripts/add-key.sh
+    - ./scripts/add-ke.sh
 deployment:
  beta_distribution:
    branch: testioski
