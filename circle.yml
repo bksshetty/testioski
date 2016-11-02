@@ -8,14 +8,14 @@ dependencies:
     - sudo gem install rubygems-update
 test:
   override:
-    - ./scripts/add-ke.sh
+    - ./scripts/add-key.sh
 deployment:
  beta_distribution:
    branch: testioski
    commands:
      - gym
- #    - cp -r /Users/distiller/clarks-ios/AW17.ipa $CIRCLE_ARTIFACTS/
- #    - ./iparename.sh
+     - cp -r /Users/distiller/clarks-ios/AW17.ipa $CIRCLE_ARTIFACTS/
+     - ./iparename.sh
  #    - Crashlytics.framework/submit $API_KEY $BUILD_SECRET -ipaPath /Users/distiller/clarks-ios/AW17.ipa -emails adarsh.r@openly.co -notesPath ReleaseNote/ReleaseNotes.txt
  # staging:
  #   branch: /feature-sprint.*/
