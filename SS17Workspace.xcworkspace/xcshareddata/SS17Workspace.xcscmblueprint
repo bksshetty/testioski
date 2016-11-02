@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0EACBF1E83D10BF79DF2C6CA9AE6C43A5AE37D2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0EACBF1E83D10BF79DF2C6CA9AE6C43A5AE37D2E" : 0,
+    "ADA18206A37CDD27DBBCD1404D632433102E5A19" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ECFF199E-0BDB-4067-BA5C-19FFFD940E32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0EACBF1E83D10BF79DF2C6CA9AE6C43A5AE37D2E" : "clarks-ios\/",
+    "ADA18206A37CDD27DBBCD1404D632433102E5A19" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SS17Workspace",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SS17Workspace.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/openly\/clarks-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0EACBF1E83D10BF79DF2C6CA9AE6C43A5AE37D2E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AdarshSRao\/Machine-Learning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADA18206A37CDD27DBBCD1404D632433102E5A19"
+    }
+  ]
+}

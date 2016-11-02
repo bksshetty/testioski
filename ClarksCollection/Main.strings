@@ -1,0 +1,72 @@
+
+/* Class = "IBUIButton"; normalTitle = "APPLY"; ObjectID = "1NU-E2-nu2"; */
+"1NU-E2-nu2.normalTitle" = "APPLY";
+
+/* Class = "IBUIButton"; normalTitle = "AMERICAS"; ObjectID = "1zD-5I-cP4"; */
+"1zD-5I-cP4.normalTitle" = "AMERICAS";
+
+/* Class = "IBUITextField"; placeholder = "ENTER PASSWORD"; ObjectID = "Bvh-zT-9Pq"; */
+"Bvh-zT-9Pq.placeholder" = "ENTER PASSWORD";
+
+/* Class = "IBUITextField"; placeholder = "ENTER USERNAME"; ObjectID = "FUZ-RD-Ccd"; */
+"FUZ-RD-Ccd.placeholder" = "ENTER USERNAME";
+
+/* Class = "IBUILabel"; text = "Hello Matt,"; ObjectID = "Fdl-Sl-aW7"; */
+"Fdl-Sl-aW7.text" = "Hello Matt,";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Ggk-Y4-mKG"; */
+"Ggk-Y4-mKG.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "firstname.lastname@clarks.com"; ObjectID = "NKr-j7-O9L"; */
+"NKr-j7-O9L.normalTitle" = "firstname.lastname@clarks.com";
+
+/* Class = "IBUIButton"; normalTitle = "EUROPE"; ObjectID = "O96-Ll-91e"; */
+"O96-Ll-91e.normalTitle" = "EUROPE";
+
+/* Class = "IBUILabel"; text = "qwer"; ObjectID = "Pf7-p1-kAk"; */
+"Pf7-p1-kAk.text" = "qwer";
+
+/* Class = "IBUILabel"; text = "Please call 01234 897 263"; ObjectID = "RWc-bN-ObO"; */
+"RWc-bN-ObO.text" = "Please call 01234 897 263";
+
+/* Class = "IBUILabel"; text = "Version 1.02"; ObjectID = "Rcb-1d-0eo"; */
+"Rcb-1d-0eo.text" = "Version 1.02";
+
+/* Class = "IBUILabel"; text = "Aasdf"; ObjectID = "UuM-Ov-0r0"; */
+"UuM-Ov-0r0.text" = "Aasdf";
+
+/* Class = "IBUILabel"; text = "err"; ObjectID = "VOC-yl-bdT"; */
+"VOC-yl-bdT.text" = "err";
+
+/* Class = "IBUILabel"; text = "MORE COLOURS"; ObjectID = "Xhw-Lf-hhG"; */
+"Xhw-Lf-hhG.text" = "MORE COLOURS";
+
+/* Class = "IBUILabel"; text = "Please select your region"; ObjectID = "YVo-Qn-Rqa"; */
+"YVo-Qn-Rqa.text" = "Please select your region";
+
+/* Class = "IBUILabel"; text = "Newton Energy"; ObjectID = "cNC-xb-uWT"; */
+"cNC-xb-uWT.text" = "Newton Energy";
+
+/* Class = "IBUIButton"; normalTitle = "    Menu"; ObjectID = "dRH-jy-4qr"; */
+"dRH-jy-4qr.normalTitle" = "    Menu";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Username or Password?"; ObjectID = "dps-E1-2nr"; */
+"dps-E1-2nr.normalTitle" = "Forgot Username or Password?";
+
+/* Class = "IBUIButton"; normalTitle = "LOGIN"; ObjectID = "fPD-Vj-li8"; */
+"fPD-Vj-li8.normalTitle" = "LOGIN";
+
+/* Class = "IBUILabel"; text = "or email"; ObjectID = "gaG-tU-wVp"; */
+"gaG-tU-wVp.text" = "or email";
+
+/* Class = "IBUIButton"; normalTitle = "UK & ROI"; ObjectID = "jux-r3-cXl"; */
+"jux-r3-cXl.normalTitle" = "UK & ROI";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "sUE-rT-tG2"; */
+"sUE-rT-tG2.normalTitle" = "Reset";
+
+/* Class = "IBUIButton"; normalTitle = "ASIA PACIFIC"; ObjectID = "ukV-co-wk9"; */
+"ukV-co-wk9.normalTitle" = "ASIA PACIFIC";
+
+/* Class = "IBUIButton"; normalTitle = "Select all"; ObjectID = "wZg-oi-d3J"; */
+"wZg-oi-d3J.normalTitle" = "Select all";
